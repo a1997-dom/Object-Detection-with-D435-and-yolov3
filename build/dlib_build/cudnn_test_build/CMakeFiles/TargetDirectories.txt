@@ -1,0 +1,3 @@
+/home/ktx/d435/DNN/build/dlib_build/cudnn_test_build/CMakeFiles/rebuild_cache.dir
+/home/ktx/d435/DNN/build/dlib_build/cudnn_test_build/CMakeFiles/cudnn_test.dir
+/home/ktx/d435/DNN/build/dlib_build/cudnn_test_build/CMakeFiles/edit_cache.dir

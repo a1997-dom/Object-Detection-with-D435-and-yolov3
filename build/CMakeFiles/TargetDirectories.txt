@@ -1,0 +1,6 @@
+/home/ktx/d435/DNN/build/CMakeFiles/rebuild_cache.dir
+/home/ktx/d435/DNN/build/CMakeFiles/DNN_YOLO.dir
+/home/ktx/d435/DNN/build/CMakeFiles/edit_cache.dir
+/home/ktx/d435/DNN/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/ktx/d435/DNN/build/dlib_build/CMakeFiles/dlib.dir
+/home/ktx/d435/DNN/build/dlib_build/CMakeFiles/edit_cache.dir

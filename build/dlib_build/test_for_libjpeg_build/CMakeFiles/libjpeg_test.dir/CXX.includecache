@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ktx/d435/DNN/dlib/cmake_utils/test_for_libjpeg/libjpeg_test.cpp
+setjmp.h
+-
+stdio.h
+-
+stdlib.h
+-
+jpeglib.h
+-
+iostream
+-
+
